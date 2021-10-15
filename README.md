@@ -1,4 +1,4 @@
-# Git Form
+# GitForm
 
 ## Local run
 ```
